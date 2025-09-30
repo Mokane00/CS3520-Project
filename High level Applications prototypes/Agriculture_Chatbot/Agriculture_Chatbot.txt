@@ -1,0 +1,3 @@
+Agricultural Chatbot
+Brief Notes on Rationale
+This prototype mimics a simple chatbot for farmers, handling text queries to provide crop advice or weather updates via SMS/USSD on basic phones. It uses straightforward string processing and basic math to predict things like crop yields, tackling the lack of farming advice in rural Lesotho. The design focuses on low-power, quick bursts of computation to save battery, perfect for offline use in low-data areas, and aims to boost yields by 20% by giving farmers timely tips.

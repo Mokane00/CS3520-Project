@@ -1,0 +1,3 @@
+Crop Disease Detection
+Brief Notes on Rationale
+This prototype acts like a simple version of an AI tool that spots crop diseases by processing a low-resolution image, similar to how a CNN (convolutional neural network) would work. It does quick matrix calculations to mimic identifying pests or diseases, keeping memory use low so it can run offline on cheap phones. It’s designed to help tackle the 20-40% crop losses in Lesotho by being fast and power-efficient for rural farmers.
