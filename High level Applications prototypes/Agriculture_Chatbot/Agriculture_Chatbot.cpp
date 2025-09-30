@@ -3,7 +3,7 @@
 
 using namespace std;
 
-// Simple string comparison helper (avoid <cctype>, <algorithm>)
+// Simple string comparison helper
 bool contains(const string& str, const string& substr) {
     if (str.length() < substr.length()) return false;
     for (int i = 0; i <= str.length() - substr.length(); i++) {
